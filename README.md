@@ -1,5 +1,4 @@
 # End-to-end E-commerce Demand Forecasting
-*Patcharanat P.*
 ```text
 Click "⋮≡" at top left to show the table of contents.
 ```
